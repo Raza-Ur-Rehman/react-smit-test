@@ -43,7 +43,7 @@ export const profileData = [
     "profession": "Software Engineer",
     "description": "Dedicated software engineer with a focus on backend development.",
     "background": "https://images.pexels.com/photos/3184297/pexels-photo-3184297.jpeg",
-    "profileImage": "/public/assets/img/default.png",
+    "profileImage": "/assets/img/default.png",
     "profileLink": "https://facebook.com/emeka.uzo",
     id: 5,
   },
